@@ -1,0 +1,2 @@
+# determine-the-values-of-mass-matrix-and-stiffness-matrix-
+MATLAB program to determine the values of mass matrix and stiffness matrix in three degrees of freedom mode using single objective genetic algorithm method by taking the value of earthquake frequency at the beginning of the program so that the frequency of the structure is equal to the frequency of the incoming load which is the earthquake.
